@@ -25,7 +25,7 @@
 
 # 📊Technical Architecture:
 
- ![image](https://user-images.githubusercontent.com/78862080/200159570-62a89c21-9e40-40b5-b8bb-89d4a403c9fc.png)
+![image](https://user-images.githubusercontent.com/78862080/200160301-0517f157-64b9-48c8-9bb6-4d6077ad291a.png)
  
 # 🖇️LINKS
  
