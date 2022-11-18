@@ -22,6 +22,7 @@
  - Retailers may meet client demand without running out of product by properly managing their inventory. 
  
  - Effective retail inventory management reduces costs and improves knowledge of sales patterns in practise.
+ 
 
 # 📊Technical Architecture:
 
@@ -34,4 +35,6 @@
  - <a href="https://github.com/IBM-EPBL/IBM-Project-35144-1660281844/tree/main/Prerequesties">Working with dataset and Data Visualization</a><br>
  - <a href="https://github.com/IBM-EPBL/IBM-Project-35144-1660281844/tree/main/Project%20Design%20%26%20Planning">Project Design and Planning</a><br>
  - <a href="https://github.com/IBM-EPBL/IBM-Project-35144-1660281844/tree/main/Project%20Development%20Phase">Project Development Phase</a><br>
- <a href=""></a><br>
+ - <a href="https://github.com/IBM-EPBL/IBM-Project-35144-1660281844/tree/main/Final%20Deliverables">Final Deliverables</a><br>
+ - <a href="https://drive.google.com/file/d/1EBge1YumK_xNg_9NV4kR5TTEkNNpdfLH/view?usp=share_link">Demo Video</a><br>
+
